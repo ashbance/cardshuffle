@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ashok.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ashok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ashok_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ashok_main.iml" group="com.ashok" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ashok_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ashok_test.iml" group="com.ashok" />
+    </modules>
+  </component>
+</project>
